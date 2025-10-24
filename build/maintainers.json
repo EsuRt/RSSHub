@@ -1740,6 +1740,9 @@
     "Fatpandac"
   ],
   "/codeforces/recent-actions/:minrating?": [],
+  "/cognition/blog": [
+    "Loongphy"
+  ],
   "/cohere/blog": [
     "Loongphy"
   ],
@@ -1913,6 +1916,12 @@
   ],
   "/csu/mail/:type?": [
     "j1g5awi"
+  ],
+  "/csust/tggs": [
+    "powerfullz"
+  ],
+  "/csust/xkxs": [
+    "powerfullz"
   ],
   "/ctbu/xxgg": [
     "Skylwn"
@@ -5316,6 +5325,9 @@
   "/mixi2/user/:name/:media?": [
     "KarasuShin"
   ],
+  "/miyuki/news": [
+    "KarasuShin"
+  ],
   "/modb/topic/:id": [
     "yueneiqi"
   ],
@@ -6089,6 +6101,9 @@
   ],
   "/oreno3d/tags/:tagid/:sort/:pagelimit?": [
     "xueli_sherryli"
+  ],
+  "/ornl/all-news": [
+    "nczitzk"
   ],
   "/oschina/column/:id": [
     "nczitzk"
@@ -7529,7 +7544,8 @@
     "nczitzk"
   ],
   "/stdaily/digitalpaper": [
-    "lyqluis"
+    "lyqluis",
+    "KarasuShin"
   ],
   "/steam/appcommunityfeed/:appid/:routeParams?": [
     "NyaaaDoge"
