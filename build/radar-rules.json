@@ -53955,27 +53955,6 @@
       }
     ]
   },
-  "tophub.today": {
-    "_name": "今日热榜",
-    ".": [
-      {
-        "title": "榜单",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/n/:id"
-        ],
-        "target": "/tophub/:id"
-      },
-      {
-        "title": "榜单列表",
-        "docs": "https://docs.rsshub.app/routes/new-media",
-        "source": [
-          "/n/:id"
-        ],
-        "target": "/tophub/list/:id"
-      }
-    ]
-  },
   "businessreview.global": {
     "_name": "The Economist",
     ".": [
@@ -54008,6 +53987,27 @@
           "/espresso"
         ],
         "target": "/economist/espresso"
+      }
+    ]
+  },
+  "tophub.today": {
+    "_name": "今日热榜",
+    ".": [
+      {
+        "title": "榜单",
+        "docs": "https://docs.rsshub.app/routes/new-media",
+        "source": [
+          "/n/:id"
+        ],
+        "target": "/tophub/:id"
+      },
+      {
+        "title": "榜单列表",
+        "docs": "https://docs.rsshub.app/routes/new-media",
+        "source": [
+          "/n/:id"
+        ],
+        "target": "/tophub/list/:id"
       }
     ]
   }
